@@ -1,0 +1,154 @@
+osboxes@osboxes:~/Documents/ID2222/Homework1$ sbt run
+[info] Loading project definition from /home/osboxes/Documents/ID2222/Homework1/project
+[info] Loading settings from build.sbt ...
+[info] Set current project to id2222_hw1 (in build file:/home/osboxes/Documents/ID2222/Homework1/)
+[info] Packaging /home/osboxes/Documents/ID2222/Homework1/target/scala-2.11/id2222_hw1_2.11-1.0.jar ...
+[info] Done packaging.
+[info] Running homework1.Main 
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Data Size is 2
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 1.144882803 sec
+Duration for MinHash: 3.792669638 sec
+Duration for LSH: 5.709508631 sec
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 3
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 1.186762212 sec
+Duration for MinHash: 8.986828223 sec
+Duration for LSH: 14.067814188 sec
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 4
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 1.857481824 sec
+Duration for MinHash: 17.60659436 sec
+Duration for LSH: 24.587423956 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 5
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 2.029478944 sec
+Duration for MinHash: 25.638969496 sec
+Duration for LSH: 32.153400272 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 6
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 2.946061317 sec
+Duration for MinHash: 47.697461463 sec
+Duration for LSH: 57.354118896 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 7
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 3.908280028 sec
+Duration for MinHash: 64.537990423 sec
+Duration for LSH: 75.30248672 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have Jaccard similarity of 0.9987540406112707
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 8
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 4.655107712 sec
+Duration for MinHash: 84.835775539 sec
+Duration for LSH: 98.051290387 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have Jaccard similarity of 0.9987540406112707
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 9
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 6.068352733 sec
+Duration for MinHash: 119.369335619 sec
+Duration for LSH: 134.177240003 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have Jaccard similarity of 0.9987540406112707
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+Data Size is 10
+Band number is 10.0, row number is 20.0, and threshold is 0.8912509381337456.
+Duration for Jaccard: 8.416063647 sec
+Duration for MinHash: 158.974387023 sec
+Duration for LSH: 184.928965259 sec
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have Jaccard similarity of 0.9987540406112707
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) have Jaccard similarity of 0.9987540406112707
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have Jaccard similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) have minhash similarity of 1.0
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/6.txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/6 (copy).txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/1 (trimed).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/1.txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/2 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/2.txt) are candidate pairs with at least similarity of 0.8
+Blogs (file:/home/osboxes/Documents/ID2222/Homework1/resource/9 (copy).txt, file:/home/osboxes/Documents/ID2222/Homework1/resource/9.txt) are candidate pairs with at least similarity of 0.8
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+[success] Total time: 1230 s, completed Nov 5, 2018 9:42:52 AM
+
