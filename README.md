@@ -15,6 +15,7 @@ HyperLogLog algorithm to calculate centrality.
 4. We studied, implemented and tested the spectral graph clustering algorithm as described in the paper “On Spectral Clustering: Analysis and an algorithm” by Andrew Y. Ng, Michael I. Jordan, Yair Weiss. Using our implementation of the K-eigenvector algorithm, we analysed two sample graphs.
 
 1). A real graph “example1.dat” -- This dataset was prepared by Ron Burt. He dug out the 1966 data collected by Coleman, Katz and Menzel on medical innovation. They had collected data from physicians in four towns in Illinois, Peoria, Bloomington, Quincy and Galesburg.
+
 2). A synthetic graph “example2.dat”.
 
 The implementation was done with Matlab.
